@@ -1,3 +1,6 @@
+# FoodZone
+- FoodZone is a Node.js backend project for a food ordering platform. It offers API endpoints for user registration, login, password reset, restaurant listing, menu retrieval, menu item management, order placement, and order status updates. With FoodZone, users can easily find restaurants, browse menus, place orders, and track their order status.
+- -----
 | METHOD | ENDPOINT | DESCRIPTION | STATUS CODE |
 | --- | --- | --- | --- |
 | POST | /api/register | This endpoint should allow users to register. Hash the password on store. | 201 |
